@@ -5,6 +5,7 @@
  */
 class AppConfig {
     version = '1.0.2';
-    team = 'Andrew Pearson-Wood';
+    team = 'Andrew Pearson-Wood, Vipul, Fred, Hailey, Avi,Yash'; 
+    //Team Members for CND Bootcamp
 }
 module.exports = AppConfig;
